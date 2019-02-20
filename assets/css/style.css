@@ -1,0 +1,25 @@
+body {
+    background-image: url("../images/background2.jpeg")
+}
+
+.topSpace{
+    height: 50px;
+}
+
+.container{   
+    background-image: url("../images/parch.png");
+    background-repeat: no-repeat;
+    background-position: top, center;
+    height: 800px;
+    padding-top: 25px;
+}
+
+#gameSpace {
+    height: 700px;
+    margin-top: 50px;
+
+}
+
+/* #startGame {
+    margin-top: 25px;
+} */
