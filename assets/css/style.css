@@ -3,7 +3,7 @@ body {
 }
 
 .topSpace{
-    height: 50px;
+    height: 35px;
 }
 
 .container{   
@@ -11,15 +11,28 @@ body {
     background-repeat: no-repeat;
     background-position: top, center;
     height: 800px;
-    padding-top: 25px;
+    width: 800px;
+    padding-top: 50px;
 }
 
 #gameSpace {
     height: 700px;
-    margin-top: 50px;
+    margin-top: 25px;
 
 }
 
-/* #startGame {
-    margin-top: 25px;
-} */
+button {
+    margin: 3px;
+}
+
+h1, h2, h3{
+    font-family: 'Seaweed Script', cursive;
+}
+
+p, button, h4 {
+font-family: 'Encode Sans Semi Expanded', sans-serif;
+}
+
+h3 {
+    margin-top: 20px;
+}
